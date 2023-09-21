@@ -1,10 +1,6 @@
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcovinicius1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-marcovinicius1.vercel.app/api/top-langs/?username=marcovinicius1&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+
  &nbsp;
  &nbsp;
 
