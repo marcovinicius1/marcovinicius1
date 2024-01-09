@@ -1,4 +1,4 @@
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou <strong>apaixonado por descobrir coisas novas</strong> e utilizá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor front end de nível médio</strong> focado em desenvolvimento web.</p>&nbsp;
 
  &nbsp;
 
