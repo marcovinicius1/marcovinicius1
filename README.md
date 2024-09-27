@@ -60,7 +60,7 @@ Contato:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afeifz&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/marcovinicius1__/marcovinicius1__/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcovinicius1/marcovinicius1/blob/output/github-contribution-grid-snake.svg)
 
 
 
