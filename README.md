@@ -1,15 +1,13 @@
-## Sou Mohamed 🚀, Estudante de Engenharia de Software.
+## Sou Marcos Vinicius 🚀, Estudante de Analise e Desenvolvimentos de Sistemas.
 
 ## 🛠 Áreas:
 ### • Desenvolvimento Front-End/Back-End 💻
 ### • Análise de Dados/Sistemas 📊 
-### • Engenheiro de Software 🔧 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Competências:
-### • Inglês Avançado 📘 
-### • Storytelling 💡 
+### • Inglês Intermediario 📘 
 ### • Estrutura de Dados 📉 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,7 +15,7 @@
 
 Social:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedafif/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedafif/](https://www.linkedin.com/in/marcovinicius1/))
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
