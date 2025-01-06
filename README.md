@@ -1,24 +1,8 @@
-## Sou Marcos Vinicius 🚀, Estudante de Analise e Desenvolvimentos de Sistemas.
+## Marcos Vinicius 🚀, Estudante de Analise e Desenvolvimentos de Sistemas.
 
 ## 🛠 Áreas:
 ### • Desenvolvimento Front-End/Back-End 💻
 ### • Análise de Dados/Sistemas 📊 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Competências:
-### • Inglês Intermediario 📘 
-### • Estrutura de Dados 📉 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-Social:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcovinicius1/)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 Tecnologias:
 
@@ -31,6 +15,7 @@ Tecnologias:
 [![Sap](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
+[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -49,18 +34,4 @@ Ferramentas:
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)]()
-
-
-Contato:
-
-📧 mavsoares.oliveira@gmail.com
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcovinicius1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovinicius1&layout=compact&theme=tokyonight)
-
-
-
-
 
