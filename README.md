@@ -1,7 +1,3 @@
-## 👋 Hi there!
-
----
-
 ### 🧑‍💻 About Me
 
 - 📚 Never stop learning.  
